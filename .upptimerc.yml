@@ -1,31 +1,32 @@
 # Change these first
-owner: xaif # Your GitHub organization or username, where this repository lives
-repo: uptime-monitor # The name of this repository
+owner: xaif # Your GitHub username
+repo: uptime-monitor # Your GitHub repository name
+assignees:
+  - xaif
 
+# Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: WebVerge
-    url: https://webverge.io
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Website
+    url: https://momentum.studio
+  - name: Client Area
+    url: https://clients.momentum.studio
+  - name: Shared Hosting
+    url: https://cpanel.momentum.studio
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  # baseUrl: /uptime-monitor
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # Add your custom domain below, or remove the next line if you don't have a domain
+  #cname: status.momentum.studio
+  # Uncomment the following line if you don't have a custom domain and add your repo name
+  baseUrl: /status
+  logoUrl: https://momentum.studio/wp-content/uploads/2017/05/ms-logo-no-margin.png
+  name: Momentum Studio Status
+  introTitle: See how our services are performing
+  introMessage: This status page shows how our services are performing live. We do also add messages to this site from time to time to explain downtimes.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Website
+      href: https://momentum.studio
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
