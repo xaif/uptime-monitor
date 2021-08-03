@@ -4,9 +4,9 @@
     "url": "https://webverge.io",
     "icon": "https://favicons.githubusercontent.com/webverge.io",
     "slug": "web-verge",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 125,
     "timeMonth": 243,
     "timeYear": 375,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-03": 0
+    }
   },
   {
     "name": "Blog",
     "url": "https://blog.webverge.io",
     "icon": "https://favicons.githubusercontent.com/blog.webverge.io",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 328,
     "timeMonth": 360,
     "timeYear": 283,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-03": 0
+    }
   }
 ]
