@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1315,
-    "timeDay": 237,
-    "timeWeek": 426,
-    "timeMonth": 671,
-    "timeYear": 1227,
+    "timeDay": 148,
+    "timeWeek": 431,
+    "timeMonth": 615,
+    "timeYear": 1223,
     "dailyMinutesDown": {
       "2023-05-20": 19,
       "2022-11-29": 48
@@ -26,16 +26,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.webverge.io.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "99.70%",
+    "uptime": "99.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 586,
-    "timeDay": 229,
-    "timeWeek": 377,
-    "timeMonth": 886,
-    "timeYear": 660,
+    "time": 585,
+    "timeDay": 797,
+    "timeWeek": 460,
+    "timeMonth": 882,
+    "timeYear": 661,
     "dailyMinutesDown": {
       "2023-05-20": 19
     }
