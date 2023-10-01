@@ -4,7 +4,7 @@
     "url": "https://webverge.io",
     "icon": "https://icons.duckduckgo.com/ip3/webverge.io.ico",
     "slug": "web-verge",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 674,
     "timeYear": 1223,
     "dailyMinutesDown": {
+      "2023-10-01": 0,
       "2023-05-20": 19,
       "2022-11-29": 48
     }
