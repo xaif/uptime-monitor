@@ -6,9 +6,9 @@
     "slug": "web-verge",
     "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "96.31%",
-    "uptimeWeek": "99.47%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "95.66%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.98%",
     "time": 1296,
     "timeDay": 208,
@@ -16,7 +16,7 @@
     "timeMonth": 674,
     "timeYear": 1223,
     "dailyMinutesDown": {
-      "2023-10-01": 53,
+      "2023-10-01": 62,
       "2023-05-20": 19,
       "2022-11-29": 48
     }
@@ -26,19 +26,19 @@
     "url": "https://blog.webverge.io",
     "icon": "https://icons.duckduckgo.com/ip3/blog.webverge.io.ico",
     "slug": "blog",
-    "status": "down",
+    "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 565,
-    "timeDay": 58,
-    "timeWeek": 299,
-    "timeMonth": 416,
-    "timeYear": 670,
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 563,
+    "timeDay": 139,
+    "timeWeek": 289,
+    "timeMonth": 409,
+    "timeYear": 669,
     "dailyMinutesDown": {
-      "2023-10-01": 0,
+      "2023-10-01": 9,
       "2023-05-20": 19
     }
   }
