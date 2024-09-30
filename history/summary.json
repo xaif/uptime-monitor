@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 753,
-    "timeDay": 171,
-    "timeWeek": 721,
-    "timeMonth": 798,
-    "timeYear": 742,
-    "dailyMinutesDown": {
-      "2023-10-01": 95
-    }
+    "timeDay": 195,
+    "timeWeek": 481,
+    "timeMonth": 797,
+    "timeYear": 737,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Blog",
@@ -30,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 394,
-    "timeDay": 253,
-    "timeWeek": 319,
-    "timeMonth": 294,
+    "time": 392,
+    "timeDay": 201,
+    "timeWeek": 334,
+    "timeMonth": 299,
     "timeYear": 344,
     "dailyMinutesDown": {}
   }
