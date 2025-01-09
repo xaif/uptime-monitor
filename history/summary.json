@@ -4,18 +4,20 @@
     "url": "https://webverge.io",
     "icon": "https://icons.duckduckgo.com/ip3/webverge.io.ico",
     "slug": "web-verge",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 660,
+    "time": 661,
     "timeDay": 245,
     "timeWeek": 411,
     "timeMonth": 389,
     "timeYear": 561,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-09": 0
+    }
   },
   {
     "name": "Blog",
